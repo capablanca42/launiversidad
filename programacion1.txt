@@ -1,0 +1,8 @@
+1.inicio 
+2.caminar 
+3. ver a mis amigos 
+4. conversar de lo mas relevante de los sistemas operativos 
+5.ir a clases 
+6.salir de la universidad 
+7. ir a casa  
+8. fin
